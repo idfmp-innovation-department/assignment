@@ -1,20 +1,22 @@
-[
-  {
-    "id": "1",
-    "title": "shit",
-    "completed": true,
-    "createdAt": "2026-08-02"
-  },
-  {
-    "id": "2",
-    "title": "wipe ass",
-    "completed": false,
-    "createdAt": "2026-08-02"
-  },
-  {
-    "id": "3",
-    "title": "wash hands",
-    "completed": false,
-    "createdAt": "2026-08-02"
-  }
-]
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "completed": false,
+      "createdAt": "2026-08-02T10:00:00.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Clean the room",
+      "completed": true,
+      "createdAt": "2026-08-02T11:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "title": "Complete assignment",
+      "completed": false,
+      "createdAt": "2026-08-02T12:00:00.000Z"
+    }
+  ]
+}
