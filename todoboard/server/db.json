@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "shit",
+    "completed": true,
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "2",
+    "title": "wipe ass",
+    "completed": false,
+    "createdAt": "2026-08-02"
+  },
+  {
+    "id": "3",
+    "title": "wash hands",
+    "completed": false,
+    "createdAt": "2026-08-02"
+  }
+]
