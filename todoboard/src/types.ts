@@ -7,4 +7,4 @@ export interface Todo {
 
 export type CreateTodoPayload = Omit<Todo, 'id'>;
 
-export type Filter = 'all' | 'active' | 'completed';
+export type TaskFilter = 'all' | 'active' | 'completed';
