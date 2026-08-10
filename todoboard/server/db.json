@@ -17,6 +17,19 @@
       "title": "Complete assignment",
       "completed": false,
       "createdAt": "2026-08-02T12:00:00.000Z"
+    },
+    {
+      "title": "spray for good smell",
+      "completed": false,
+      "createdAt": "2026-08-02T15:00:00Z",
+      "id": "sZ4qlliWZXE"
+    },
+    {
+      "title": "Test without header",
+      "completed": true,
+      "createdAt": "2026-08-02",
+      "id": "EpTQ4sAzc_Y"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
